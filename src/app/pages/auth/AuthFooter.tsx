@@ -23,6 +23,13 @@ export function AuthFooter() {
       <Text as="a" size="T300" href="https://matrix.org" target="_blank" rel="noreferrer">
         Powered by Matrix
       </Text>
+
+      <Text as="a" size="T300" href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer">
+          滇ICP备2021008056号
+      </Text>
+      <Text as="a" size="T300" href="https://beian.mps.gov.cn/#/query/webSearch?code=53080202000441" target="_blank" rel="noreferrer">
+          滇公网安备53080202000441
+      </Text>
     </Box>
   );
 }
